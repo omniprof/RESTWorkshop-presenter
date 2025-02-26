@@ -1,0 +1,4 @@
+com\eclipse\restserver\bean\CompoundBean.class
+com\eclipse\restserver\CompoundInterestService.class
+com\eclipse\restserver\bean\RestBean.class
+com\eclipse\restserver\GreetingService.class
