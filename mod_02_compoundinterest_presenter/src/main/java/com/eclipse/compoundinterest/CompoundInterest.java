@@ -42,7 +42,7 @@ public class CompoundInterest {
                                     getCompoundPerTimeUnit());
             compoundBean.setResult(numberFormat.format(ans));
         } else {
-            compoundBean.setResult("Invalid");
+            compoundBean.setResult("xxxxx");
         }
     }
 
