@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+    <Resource id="Derby Database" type="DataSource">
+        JdbcDriver org.apache.derby.jdbc.ClientDriver
+        JdbcUrl jdbc:derby://localhost:1527/calcdb
+        UserName omni
+        Password Big6Potato
+    </Resource>
+</resources>
