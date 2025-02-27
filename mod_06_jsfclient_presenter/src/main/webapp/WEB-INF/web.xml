@@ -12,9 +12,7 @@
     </context-param>
     <!-- In minutes, how long session objects will remain in server memory -->
     <session-config>
-        <session-timeout>
-            30
-        </session-timeout>
+        <session-timeout>30</session-timeout>
     </session-config>
     <!-- if there is no page in the URL then this page will be called upon -->
     <welcome-file-list>
