@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+mod_06_jsfclient_presenter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+mod_06_jsfclient_presenter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+mod_06_jsfclient_presenter/target/Mod_06_JSFClient_presenter/WEB-INF/web.xml
+mod_07_multipart_server_presenter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+mod_07_restclientupload_presenter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Mod_08_JPA_Server_presenter/nb-configuration.xml
+Mod_08_JPA_Server_presenter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Mod_08_JPA_Server_presenter/target/Mod_08_JPA_Server_presenter/WEB-INF/resources.xml
